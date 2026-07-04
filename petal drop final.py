@@ -209,7 +209,7 @@ if __name__ == "__main__": #main window
 
         doneby = Label(credit_page,text="PROJECT DONE BY:",font=('Helvetica 17 bold'),
                        bg="DimGrey",padx=10,pady=10).place(x=70,y=1)
-        names = Label(credit_page,text="Nasrin Rahman 12-B",
+        names = Label(credit_page,text="Nasrin Rahman 12-B\n Sauda Mohammed 12-B",
                       font=("Helvetica",12),bg="Grey").place(x=105,y=40)
         b = Label(credit_page,text="BIBLIOGRAPHY",font=("Helvetica 17 bold"), bg="DimGrey").place(x=95,y=100)
         links = Label(credit_page,text="""https://www.pythontutorial.net/tkinter/
